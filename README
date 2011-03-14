@@ -1,0 +1,1 @@
+A simple website with http://localhost:8080/mavenInvokerSite/mavenInvoker to invoke the mavenInvoker, which will build the embedded maven war project.
